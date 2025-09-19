@@ -1,7 +1,5 @@
 # Goal MERN App
 
-
-
 ## Usage
 
 Rename the .envexample to .env and add your MONGO_URI
@@ -31,6 +29,7 @@ This is the goalsetter app from the Learn the MERN Stack series on YouTube:
 <!--
 - [Part 3: Frontend Authentication](https://youtu.be/mvfsC66xqj0?si=niuX0KWt4kNnBWgq)
 - [Part 4:  Redux Goals](https://youtu.be/UXjMo25Nnvc?si=qiNjyBvI7NOmED1P)
+https://github.com/bradtraversy/mern-tutorial/
 
 - [Other MERN Crash Course 3h](https://youtu.be/R4AhvYORZRY?si=gTBxA-hiuLtKhNvo)
 -->
